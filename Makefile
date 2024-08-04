@@ -1,7 +1,7 @@
 .POSIX:
 .SUFFIXES:
 
-CXX = c++
+CXX = g++-10
 
 debug = no
 static = no
